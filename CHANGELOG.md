@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.22-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Remove "private" flag from package.json so package can be published.
+
 ## [0.1.21] - 2023-08-21
 ### Added
 - Publish package to npmjs.com. [#32515]
@@ -90,4 +97,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - fixed and improved README
 
+[0.1.22-alpha]: https://github.com/Automattic/jetpack-config-js/compare/v0.1.21...v0.1.22-alpha
 [0.1.21]: https://github.com/Automattic/jetpack-config-js/compare/v0.1.20...v0.1.21
