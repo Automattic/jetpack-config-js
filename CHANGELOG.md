@@ -5,15 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.1.0] - 2026-09-15
 ### Added
-- Accept the configuration as a `jetpackConfig` global when webpack externals are unavailable.
+- Accept the configuration as a `jetpackConfig` global when webpack externals are unavailable. [#52204]
 
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#52297]
 
 ## [1.0.14] - 2026-07-20
 ### Added
@@ -190,7 +187,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - fixed and improved README
 
-[1.1.0-alpha]: https://github.com/Automattic/jetpack-config-js/compare/v1.0.14...v1.1.0-alpha
+[1.1.0]: https://github.com/Automattic/jetpack-config-js/compare/v1.0.14...v1.1.0
 [1.0.14]: https://github.com/Automattic/jetpack-config-js/compare/v1.0.13...v1.0.14
 [1.0.13]: https://github.com/Automattic/jetpack-config-js/compare/v1.0.12...v1.0.13
 [1.0.12]: https://github.com/Automattic/jetpack-config-js/compare/v1.0.11...v1.0.12
